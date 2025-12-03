@@ -1,0 +1,7 @@
+similarity.pkl
+*.pkl
+myenv/
+venv/
+.env
+__pycache__/
+*.pyc
